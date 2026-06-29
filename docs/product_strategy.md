@@ -2,20 +2,20 @@
 
 ## Vision
 
-Enable organizations to make faster, data-driven decisions through intelligent KPI management.
+Transform physical security from static access control into a real-time intelligence platform.
 
 ## Problem
 
-Business metrics are often fragmented across dashboards, making it difficult to identify trends, prioritize actions, and align teams.
+Traditional access systems rely on fixed rules and disconnected devices, limiting visibility, scalability, and adaptability.
 
 ## Strategy
 
-Unify enterprise KPIs, analytics, and AI recommendations into a shared decision platform.
+Unify identity, IoT devices, risk evaluation, and policy enforcement into a centralized platform.
 
 ## Value
 
-* Executive visibility
-* Faster decisions
-* Cross-functional alignment
-* Continuous performance improvement
-* Better business outcomes
+* Stronger security
+* Faster incident response
+* Consistent policy enforcement
+* Simplified operations
+* Enterprise scalability
