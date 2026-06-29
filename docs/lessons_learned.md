@@ -1,9 +1,9 @@
 # Lessons Learned
 
-Organizations rarely struggle because they lack data.
+Enterprise customers rarely evaluate security products on features alone.
 
-They struggle because metrics are fragmented, definitions are inconsistent, and decisions are disconnected from business outcomes.
+They evaluate whether the platform integrates with existing systems, scales across locations, supports compliance, and remains operational over time.
 
-The most valuable KPI platforms do more than visualize performance—they create a shared understanding of what matters, why it matters, and what actions should follow.
+The most valuable lesson was that successful enterprise products build confidence—not just capabilities.
 
-Decision intelligence turns metrics into measurable business impact.
+By combining product strategy with deployment, governance, and operational readiness, physical security becomes a trusted enterprise platform rather than a collection of connected devices.
