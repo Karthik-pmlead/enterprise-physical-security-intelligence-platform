@@ -1,18 +1,18 @@
-# KPI Decision Intelligence Platform
+# Enterprise Physical Security Intelligence Platform
 
-> **Transforming enterprise metrics into intelligent business decisions.**
+> **Transforming physical access control into a real-time enterprise decision platform.**
 
-Modern organizations collect thousands of KPIs across product, engineering, operations, finance, and customer success. While dashboards provide visibility, they rarely explain *why* performance changed or *what action leaders should take next*.
+Traditional physical security relies on static rules, isolated devices, and fragmented management systems. As enterprises become more connected and distributed, access decisions must incorporate identity, device health, user behavior, environmental context, and organizational policies.
 
-The KPI Decision Intelligence Platform combines business metrics, operational signals, analytics, and AI-driven insights to help organizations move from reporting outcomes to making informed decisions.
+This project reimagines physical security as an intelligent platform that continuously evaluates trust before granting physical access.
 
-Instead of monitoring KPIs in isolation, the platform continuously evaluates trends, detects anomalies, recommends actions, and measures business impact.
+Instead of treating doors as isolated endpoints, every access request becomes a real-time decision powered by identity, risk, policy, and contextual intelligence.
 
 **Core Themes**
 
-* KPI Intelligence
-* Decision Support
-* Executive Dashboards
-* Business Analytics
-* AI Insights
-* Enterprise Platforms
+* Physical Security
+* IoT Platforms
+* Edge Computing
+* Risk Intelligence
+* Policy Decisioning
+* Enterprise Architecture
